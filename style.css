@@ -1,0 +1,16 @@
+body {
+	background: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22d0ca2309988.571f6f472f6fe.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: 500px;
+
+}
+
+h1 {
+
+	text-align: center;
+	color: 242424;
+	font-size: 30px;
+	font-family: monospace;
+}
